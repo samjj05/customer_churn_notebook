@@ -40,9 +40,3 @@ However, even the best model fell short of initial expectations, leaving room fo
 - pandas, NumPy - data wrangling
 - matplotlib, seaborn - data visualisation
 - scikit-learn - preprocessing, model building/fitting, and evaluation.
-
-## Project Structure
-
-├── customer_churn_prediction_notebook.ipynb   # Main Jupyter Notebook with EDA & models
-├── README.md                         # Project documentation
-└── data                              # Dataset 
